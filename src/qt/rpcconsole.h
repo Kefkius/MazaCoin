@@ -22,7 +22,7 @@ namespace Ui {
     class RPCConsole;
 }
 
-/** Local Bitcoin RPC console. */
+/** Local Mazacoin RPC console. */
 class RPCConsole: public QDialog
 {
     Q_OBJECT
